@@ -16,29 +16,6 @@ The notebook explores the following aspects of n-gram language modeling:
 - **Cross-Validation:** Employing cross-validation to ensure model robustness.
 - **Visualization:** Presenting the results with clear and informative plots.
 
-## Requirements
-
-To run this notebook, you'll need the following:
-
-- Python 3.x
-- Jupyter Notebook or Google Colab
-- NLTK library
-- Pandas library
-- NumPy library
-- Matplotlib library
-- Scikit-learn library
-
-## Installation
-
-1. Install the required libraries using `pip`: `install` `nltk` `pandas` `numpy` `matplotlib` `scikit-learn`
-
-2. Download the necessary NLTK resources: `import nltk nltk.download('movie_reviews') nltk.download('punkt')`
-
-## Usage
-
-1. Open the `n-gram.ipynb` notebook in Jupyter Notebook or Google Colab.
-2. Execute the code cells sequentially to perform the analysis.
-3. Modify the parameters and experiment with different n-gram sizes and smoothing techniques.
 
 ## Dataset
 
@@ -48,12 +25,3 @@ The IMDB Dataset is used for this analysis. It consists of movie reviews labeled
 ## Results
 
 The notebook includes visualizations and analysis of the model's performance, including perplexity scores and comparisons between different smoothing techniques.
-
-
-## Contributing
-
-Contributions are welcome! If you find any issues or have suggestions for improvement, please feel free to open an issue or submit a pull request.
-
-## License
-
-This project is licensed under the MIT License.
