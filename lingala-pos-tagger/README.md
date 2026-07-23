@@ -1,6 +1,6 @@
 # Natively Fine-Tuning AfroXLM-R for Lingala Part-of-Speech Tagging
 
-**Author:** KongoLM Initiative  
+**Author:** Van Tasi  
 **Framework:** PyTorch, Hugging Face Transformers & PEFT  
 **Base Model:** `Davlan/afro-xlmr-large` (550M Parameters)
 
